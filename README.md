@@ -1,16 +1,27 @@
-## Hi there 👋
+ # Hi, I'm Ryan Belmonte
 
-<!--
-**ryanpbelmonte/ryanpbelmonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Software engineer with a Graduate Certificate in Software Development Engineering (UW Tacoma, 2026).
+ I build backend and full-stack applications in **Python, Flask, PostgreSQL, Docker, and AWS**,
+ with automated testing and CI. Previously 15+ years delivering production systems in healthcare
+ (Epic, FHIR, OAuth integrations, regulated go-lives).
 
-Here are some ideas to get you started:
+ ## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Trail Conditions Checker
+ Team capstone web app — **server-side/API owner**
+ Flask · PostgreSQL · OpenWeather REST APIs · GitHub OAuth · Docker Compose · nginx/gunicorn on AWS EC2 · pytest + Playwright CI (52 tests)
+
+ [Repo](https://github.com/ryanpbelmonte/trail-conditions-checker-capstone)
+ *Live demo available on request* — see README screenshot for UI
+
+ ### Nuovo Fresco Pipe Network (Trivia Maze)
+ Team capstone — **persistence & architecture owner**
+ Python · SQLModel/SQLite · pytest (116 tests) · PyQt6 GUI · contract-driven module boundaries
+
+ [Repo](https://github.com/nstjern-uw/TCSS504_TriviaMaze_CacheKings)
+
+ ## Connect
+
+ - [LinkedIn](https://linkedin.com/in/ryan-belmonte-4609a9b8)
+ - [Portfolio / landing page](YOUR_S3_URL_IF_LIVE)
+ - Open to: Software Engineer · Backend · Full Stack · Integration/Platform roles
