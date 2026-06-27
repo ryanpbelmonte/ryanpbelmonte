@@ -1,29 +1,32 @@
- # Hi, I'm Ryan Belmonte
+# Hi, I'm Ryan Belmonte
 
- Software engineer with a Graduate Certificate in Software Development Engineering (UW Tacoma, 2026).
- I build backend and full-stack applications in **Python, Flask, PostgreSQL, Docker, and AWS**,
- with automated testing and CI. Previously 15+ years delivering production systems in healthcare
- (Epic, FHIR, OAuth integrations, regulated go-lives).
+Software engineer with a Graduate Certificate in Software Development Engineering (UW Tacoma, 2026).
+I build backend and full-stack applications in **Python, Flask, PostgreSQL, Docker, and AWS**,
+with automated testing and CI. Previously 15+ years delivering production systems in healthcare
+(Epic, FHIR, OAuth integrations, regulated go-lives).
 
- ## Featured projects
+## Featured projects
 
- ### Trail Conditions Checker
- Team capstone web app — **server-side/API owner**
- Flask · PostgreSQL · OpenWeather REST APIs · GitHub OAuth · Docker Compose · nginx/gunicorn on AWS EC2 · pytest + Playwright CI (52 tests)
+### Trail Conditions Checker
 
- [Repo](https://github.com/ryanpbelmonte/trail-conditions-checker-capstone)
- *Live demo available on request* — see README screenshot for UI
+Team capstone web app — **server-side/API owner**  
+Flask · PostgreSQL · OpenWeather REST APIs · GitHub OAuth · Docker Compose · nginx/gunicorn on AWS EC2 · pytest + Playwright CI (52 tests)
+
+[Repo](https://github.com/ryanpbelmonte/trail-conditions-checker-capstone)
+
+*Live demo available on request* — see screenshot below.
+
 ![Trail Conditions Checker](assets/trail-checker-screenshot.png)
 
+### Nuovo Fresco Pipe Network (Trivia Maze)
 
- ### Nuovo Fresco Pipe Network (Trivia Maze)
- Team capstone — **persistence & architecture owner**
- Python · SQLModel/SQLite · pytest (116 tests) · PyQt6 GUI · contract-driven module boundaries
+Team capstone — **persistence & architecture owner**  
+Python · SQLModel/SQLite · pytest (116 tests) · PyQt6 GUI · contract-driven module boundaries
 
- [Repo](https://github.com/nstjern-uw/TCSS504_TriviaMaze_CacheKings)
+[Repo](https://github.com/nstjern-uw/TCSS504_TriviaMaze_CacheKings)
 
- ## Connect
+## Connect
 
- - [LinkedIn](https://linkedin.com/in/ryan-belmonte)
- - [Portfolio / landing page](http://ryanbelmonte-506-hw1.s3-website-us-west-2.amazonaws.com/)
- - Open to: Software Engineer · Backend · Full Stack · Integration/Platform roles
+- [LinkedIn](https://linkedin.com/in/ryan-belmonte-4609a9b8)
+- [Portfolio / landing page](http://ryanbelmonte-506-hw1.s3-website-us-west-2.amazonaws.com/)
+- Open to: Software Engineer · Backend · Full Stack · Integration/Platform roles
