@@ -24,6 +24,6 @@
 
  ## Connect
 
- - [LinkedIn](https://linkedin.com/in/ryan-belmonte-4609a9b8)
- - [Portfolio / landing page](YOUR_S3_URL_IF_LIVE)
+ - [LinkedIn](https://linkedin.com/in/ryan-belmonte)
+ - [Portfolio / landing page](http://ryanbelmonte-506-hw1.s3-website-us-west-2.amazonaws.com/)
  - Open to: Software Engineer · Backend · Full Stack · Integration/Platform roles
