@@ -13,6 +13,8 @@
 
  [Repo](https://github.com/ryanpbelmonte/trail-conditions-checker-capstone)
  *Live demo available on request* — see README screenshot for UI
+![Trail Conditions Checker](assets/trail-checker-screenshot.png)
+
 
  ### Nuovo Fresco Pipe Network (Trivia Maze)
  Team capstone — **persistence & architecture owner**
