@@ -20,10 +20,14 @@ Flask · PostgreSQL · OpenWeather REST APIs · GitHub OAuth · Docker Compose �
 
 ### Nuovo Fresco Pipe Network (Trivia Maze)
 
-Team capstone — **persistence & architecture owner**  
+Team project trivia maze game — **persistence & architecture owner**  
 Python · SQLModel/SQLite · pytest (116 tests) · PyQt6 GUI · contract-driven module boundaries
 
 [Repo](https://github.com/nstjern-uw/TCSS504_TriviaMaze_CacheKings)
+
+*Live demo available on request* — see screenshot below.
+
+![Nuovo Fresco Pipe Network](assets/trivia-maze-screenshot.png)
 
 ## Connect
 
