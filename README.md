@@ -7,9 +7,9 @@ with automated testing and CI. Previously 15+ years delivering production system
 
 ## Featured projects
 
-### Trail Conditions Checker
+### Trail Conditions Checker (Web app)
 
-Team capstone web app — **server-side/API owner**  
+3-person team capstone — **server-side/API owner**  
 Flask · PostgreSQL · OpenWeather REST APIs · GitHub OAuth · Docker Compose · nginx/gunicorn on AWS EC2 · pytest + Playwright CI (52 tests)
 
 [Repo](https://github.com/ryanpbelmonte/trail-conditions-checker-capstone)
@@ -20,7 +20,7 @@ Flask · PostgreSQL · OpenWeather REST APIs · GitHub OAuth · Docker Compose �
 
 ### Nuovo Fresco Pipe Network (Trivia Maze)
 
-Team project trivia maze app — **persistence & architecture owner**  
+3-person team project — **persistence/architecture owner**  
 Python · SQLModel/SQLite · pytest (116 tests) · PyQt6 GUI · contract-driven module boundaries
 
 [Repo](https://github.com/nstjern-uw/TCSS504_TriviaMaze_CacheKings)
