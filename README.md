@@ -14,7 +14,7 @@ Flask · PostgreSQL · OpenWeather REST APIs · GitHub OAuth · Docker Compose �
 
 [Repo](https://github.com/ryanpbelmonte/trail-conditions-checker-capstone)
 
-*Live demo available on request* — see screenshot below.
+*Demo available on request* — see screenshot below.
 
 ![Trail Conditions Checker](assets/trail-checker-screenshot.png)
 
@@ -25,7 +25,7 @@ Python · SQLModel/SQLite · pytest (116 tests) · PyQt6 GUI · contract-driven 
 
 [Repo](https://github.com/nstjern-uw/TCSS504_TriviaMaze_CacheKings)
 
-*Live demo available on request* — see screenshot below.
+*Demo available on request* — see screenshot below.
 
 ![Nuovo Fresco Pipe Network](assets/trivia-maze-screenshot.png)
 
