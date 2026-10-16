@@ -33,4 +33,4 @@ Python · SQLModel/SQLite · pytest (116 tests) · PyQt6 GUI · contract-driven 
 
 - [LinkedIn](https://www.linkedin.com/in/ryan-belmonte/)
 - [Portfolio](https://ryan.belmonte.us.com/)
-- Open to: Software Engineer · Backend · Full Stack · Integration/Platform roles
+- Software Engineer · Backend · Full Stack · Integration/Platform
