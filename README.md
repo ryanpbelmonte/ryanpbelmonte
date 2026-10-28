@@ -1,17 +1,15 @@
 # Hi, I'm Ryan Belmonte
 
-Software engineer with a Graduate Certificate in Software Development Engineering (UW Tacoma, 2026).
-I build backend and full-stack applications in **Python, Flask, PostgreSQL, Docker, and AWS**,
-with automated testing and CI, and AI agents on the **Claude API** with code-enforced guardrails
-and evals. Previously 15+ years delivering production systems in healthcare
-(Epic, FHIR, OAuth integrations, regulated go-lives).
+**Clinical technology deployment & integration.** 30+ Epic clinic rollouts, a SMART on FHIR vendor integration owned on the Epic application side, and an organization-wide generative AI rollout. I build AI agents on the Claude API to learn what works in practice: which guardrails hold, and how to evaluate them.
+
+Graduate Certificate in Software Development Engineering, UW Tacoma (2026) · Python, Flask, Docker, AWS, REST/OAuth, pytest/CI
 
 ## Featured projects
 
 ### Dawg Pack Planner (AI agent)
 
 Solo project — **design, build and evaluation**  
-Python · Claude API (tool use, no framework) · code-enforced safety guardrails · prompt-injection defenses · eval suite (12 scenarios × 3 runs, 100% safety) · GitHub Actions (weekly scheduled run + CI, 70 tests)
+Python · Claude API (tool use, no framework) · code-enforced safety guardrails · prompt-injection defenses · eval suite (12 scenarios × 3 runs; 35/36 passed, 36/36 rated safe) · GitHub Actions (weekly scheduled run + CI, 70 tests)
 
 [Repo](https://github.com/ryanpbelmonte/dawg-pack-planning-agent) · [Eval scorecard](https://github.com/ryanpbelmonte/dawg-pack-planning-agent/blob/main/evals/SCORECARD.md)
 
